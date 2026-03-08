@@ -1,6 +1,6 @@
 ---
 name: semantic-trap-detector
-description: Detect and fix semantic traps in Claude Skills that cause LLM hallucinations. Semantic traps are word pairs with similar meaning in human context but vastly different semantic boundaries in LLM space (e.g., "vulnerability" vs "risk" causes 27% accuracy difference). Use this skill whenever the user mentions: testing skills, optimizing prompts, improving skill accuracy, fixing skill hallucinations, LLM output quality, prompt engineering, or wants to evaluate/detect linguistic issues in skills — even if they don't explicitly say "semantic trap".
+description: "Detect and fix semantic traps in Claude Skills that cause LLM hallucinations. Use for testing skills, optimizing prompts, improving skill accuracy, fixing skill hallucinations, LLM output quality, and prompt engineering."
 ---
 
 # 语义陷阱检测器 (Semantic Trap Detector)
